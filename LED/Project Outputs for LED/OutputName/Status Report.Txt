@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:28:33 PM On 2024-10-01
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LED.PrjPcb]
+   Generated File[//d.docs.live.net/87ee4ce8b51754bf/Masaüstü/altium/LED/Project Outputs for LED/Bill of Materials/Bill of Materials/Bill of Materials.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:28:35 PM On 2024-10-01

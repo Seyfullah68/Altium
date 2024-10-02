@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\ilgun\OneDrive\Masaüstü\altium\LED\Project Outputs for Free Documents\Generates pick and place files\Generates pick and place files\Generates pick and place files.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01-10-24
+Time:       20:51
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment   Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                      
+R1         360R      BottomLayer R805      708.661       533.996       90       "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 360ohm, 150V, 5% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                       
+D2         Led-Green BottomLayer LED0603G  708.661       255.905       270      "Single Color LED, Green, Water Clear, 1.1mm"                                                                                    
+R          360R      TopLayer    R805      216.535       514.311       90       "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 360ohm, 150V, 5% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                       
+J          1x2Header TopLayer    HDR1X2    570.866       383.071       0        "Board Connector, 2 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Locking, White Insulator, Receptacle" 
+D1         Led-Green TopLayer    LED0603G  216.535       177.165       270      "Single Color LED, Green, Water Clear, 1.1mm"                                                                                    
