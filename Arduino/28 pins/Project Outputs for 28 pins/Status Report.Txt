@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:12:19 PM On 2024-11-14
+
+Output: Pick and Place 5/3.3V
+Type  : Pick Place
+From  : Variant [5/3.3V] of PCB Document [28pins_pcb.PcbDoc]
+   Generated File[Pick Place for 28pins_pcb(5_3.3V).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:12:20 PM On 2024-11-14

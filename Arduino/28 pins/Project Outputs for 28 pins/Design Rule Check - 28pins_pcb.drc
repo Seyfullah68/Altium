@@ -1,0 +1,97 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\ilgun\OneDrive\Masaüstü\altium\Arduino\28 pins\28pins_pcb.PcbDoc
+Date     : 2024-11-13
+Time     : 8:08:53 PM
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.4mm) (Max=4mm) (Preferred=0.4mm) (InNet('+5V/+3V3')or InNet('+5V')or InNet('+5V')or InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=0.6mm) (PreferedWidth=0.6mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.711mm) (MaxHoleWidth=0.711mm) (PreferredHoleWidth=0.711mm) (MinWidth=1.27mm) (MaxWidth=1.27mm) (PreferedWidth=1.27mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SCKT')),(InComponent('U1')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.2mm, Vertical Gap = 0.2mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('U1')),(InComponent('SCKT')) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SCKT')),(InComponent('U1')) 
+   Waived Violation between Component Clearance Constraint: (Collision) Between DIP Component U1-ATMEGA328P-PU (65.835mm,20.945mm) on L1 And SMT Small Component SCKT-28-DIP Socket (49.925mm,17.175mm) on L1 Waived by Seyfullah ilgun at 2024-11-07 4:10:03 PM
+Waived Violations :1
+
+
+Violations Detected : 0
+Waived Violations : 1
+Time Elapsed        : 00:00:01

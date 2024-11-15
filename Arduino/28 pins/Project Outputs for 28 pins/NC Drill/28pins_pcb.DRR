@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 28pins_pcb.PcbDoc   2024-11-14  1:11:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : 28pins_pcb-RoundHoles.TXT
+ASCII SlotHoles File : 28pins_pcb-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Slot              2         PTH        14.64mm (0.58inch)
+T2      0.711mm (28mil)                                           Round             74        PTH        416.13mm (16.38inch)
+T3      1mm (39mil)                                               Round             8         PTH        77.05mm (3.03inch)
+T4      1.1mm (43mil)                                             Round             86        PTH        346.52mm (13.64inch)
+T5      1.5mm (59mil)                                             Round             2         PTH        24.70mm (0.97inch)
+T6      3.2mm (126mil)                                            Round             3         PTH        115.13mm (4.53inch)
+T7      3.2mm (126mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              176
+
+Total Processing Time (hh:mm:ss) : 00:00:00
